@@ -31,7 +31,7 @@ function App() {
           esBotonDeClick={true}
           manejarClick={manejarClick} />
         <Boton
-          texto='Restart'
+          texto='Reset'
           esBotonDeClick={false}
           manejarClick={reiniciarContador} />
       </div>
